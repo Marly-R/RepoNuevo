@@ -25,6 +25,7 @@
 ~~~
 
 *Comprobacion*
+
 ![image](https://github.com/Marly-R/RepoNuevo/assets/160815306/b00212dc-9d84-4611-a5b3-db7e75ed203f)
 
 ![image](https://github.com/Marly-R/RepoNuevo/assets/160815306/8d8d9432-d713-4b8c-a30a-a33a2409df27)
